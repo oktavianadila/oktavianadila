@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nadila
-- 👀 I’m interested in web develop
-- 🌱 I’m currently learning HTML and CSS
+-  Data Enthusiast
+- 🌱 I’m currently learning about Python and Machine learning
 - 📫 How to reach me -> oktaviavianadila@gmail.com
 
 <!---
